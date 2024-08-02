@@ -1,0 +1,24 @@
+---
+---
+//https://design.digital.go.jp/foundations/color/?tab=color-palette
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold !important;
+}
+
+$section-headings-color: #fa5c91;
+$header-bg-color-secondary: #6000D3;
+$header-bg-color: #fa5c91;
+$body-text-color: #4D4D4D;
+$table-border-color: #B3B3B3;
+
+table {
+  display: table !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
+  width: auto !important;
+}
+
+
+@import "{{ site.theme }}";
