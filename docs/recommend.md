@@ -1,3 +1,9 @@
+---
+layout: default
+title: おすすめライブカメラ
+is_not_home: true
+---
+
 # livecamera-jp
 おすすめのライブカメラをご紹介します
 
