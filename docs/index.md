@@ -6,7 +6,7 @@
 
 | データ名 | CSV | GeoJSON |
 | --- | --- | --- |
-| ライブカメラ | [CSV](./livecamera-jp.csv) | - |
+| ライブカメラ | [CSV](https://github.com/w16y/opendata-livecamera-jp/blob/main/livecamera-jp.csv) | - |
 
 ## データ仕様
 
@@ -28,7 +28,7 @@
 | `last_updated`  | データの最終更新日           |
 
 ## ライセンス
-- 本データはオープンデータとして[CC0-1.0 license](./LICENSE)で提供します。
+- 本データはオープンデータとして[CC0-1.0 license](https://github.com/w16y/opendata-livecamera-jp/blob/main/LICENSE)で提供します。
 - リンク先のライブカメラ利用に関しては各公開主体のライセンスに準じてください。
 
 ## おすすめのライブカメラ
