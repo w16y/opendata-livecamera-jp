@@ -39,6 +39,6 @@ is_not_home: true
 
 ### 3.[4K] 上高地河童橋ライブカメラ KAMIKOCHI KAPPA-BASHI LIVE CAMERA
 
-[![](https://www.youtube.com/watch?v=Iv2VUE_UhRQ)](https://www.youtube.com/watch?v=Iv2VUE_UhRQ)
+[![](https://img.youtube.com/vi/Iv2VUE_UhRQ/0.jpg)](https://www.youtube.com/watch?v=Iv2VUE_UhRQ)
 
 こちらの動画は、上高地を代表する河童橋と穂高連峰を望む景色を生配信しています。「河童橋」と呼ばれる上高地のシンボルの周りには、緑豊かな自然が広がり、遠くにはそびえ立つ雄大な山々が見えます。夕方の時間帯で、山の上に浮かぶ雲が夕焼けに染まり、幻想的な雰囲気をお楽しみください！
