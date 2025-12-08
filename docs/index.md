@@ -11,7 +11,7 @@ title: ライブカメラオープンデータ
 
 | データ名 | CSV | GeoJSON |
 | --- | --- | --- |
-| ライブカメラ | [CSV](https://github.com/w16y/opendata-livecamera-jp/blob/main/livecamera-jp.csv) | - |
+| ライブカメラ | [CSV](https://github.com/w16y/opendata-livecamera-jp/blob/main/livecamera-jp.csv) | [GeoJSON](https://github.com/w16y/opendata-livecamera-jp/blob/main/livecamera-jp.geojson) |
 
 ## データ仕様
 
