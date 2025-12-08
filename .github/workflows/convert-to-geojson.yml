@@ -1,0 +1,31 @@
+name: Convert CSV to GeoJSON
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'livecamera-jp.csv'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Convert CSV to GeoJSON
+        run: python3 csv_to_geojson.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add livecamera-jp.geojson
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto generate: Update GeoJSON from CSV" && git push)
